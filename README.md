@@ -1,4 +1,4 @@
-# -
+# Student Dormitory Information Management System
 项目简介
 该学生宿舍信息管理系统，采用前后端分离架构，双端完整功能，分为学生端，管理员端，并且具备完整业务流程。
 技术栈
