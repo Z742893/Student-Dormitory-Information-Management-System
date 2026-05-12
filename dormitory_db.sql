@@ -29,12 +29,12 @@ CREATE TABLE `accommodation` (
 -- ----------------------------
 -- Records of accommodation
 -- ----------------------------
-INSERT INTO `accommodation` VALUES ('1', '2024001', 'A1', '101', '2025-11-05 10:39:19', '2025-11-05 10:47:13', '已退宿');
-INSERT INTO `accommodation` VALUES ('2', '2024001', 'A1', '101', '2025-11-05 10:47:43', '2025-11-05 10:58:37', '已退宿');
-INSERT INTO `accommodation` VALUES ('3', '2024001', 'A1', '102', '2025-11-05 10:58:37', '2025-11-05 13:50:49', '已退宿');
-INSERT INTO `accommodation` VALUES ('4', '2025002', 'B1', '101', '2025-11-05 13:50:40', null, '在住');
-INSERT INTO `accommodation` VALUES ('5', '2024001', 'A1', 'A1-101', '2025-11-05 13:50:49', null, '在住');
-INSERT INTO `accommodation` VALUES ('6', '2025003', 'B1', '101', '2025-11-05 13:53:38', '2025-11-05 13:54:07', '已退宿');
+INSERT INTO `accommodation` VALUES ('1', '202405567327', 'A1', '101', '2024-5-05 10:39:19', '2026-10-05 10:47:13', '已退宿');
+INSERT INTO `accommodation` VALUES ('2', '202405567232', 'A1', '101', '2024-5-05 10:47:43', '2026-10-05 10:58:37', '已退宿');
+INSERT INTO `accommodation` VALUES ('3', '202305800470', 'C1', '102', '2023-5-05 10:58:37', '2026-10-05 13:50:49', '已退宿');
+INSERT INTO `accommodation` VALUES ('4', '202405567008', 'B1', '101', '2024-5-05 13:50:40', null, '在住');
+INSERT INTO `accommodation` VALUES ('5', '202405567326', 'A1', 'A1-101', '2024-5-05 13:50:49', null, '在住');
+INSERT INTO `accommodation` VALUES ('6', '202505567106', 'B1', '101', '2024-5-05 13:53:38', '2025-10-05 13:54:07', '已退宿');
 
 -- ----------------------------
 -- Table structure for `building`
