@@ -190,10 +190,10 @@ CREATE TABLE `user` (
 -- ----------------------------
 -- Records of user
 -- ----------------------------
-INSERT INTO `user` VALUES ('1', 'admin', 'admin123', 'ADMIN', '2025-11-05 10:33:17');
-INSERT INTO `user` VALUES ('2', 'student1', '123456', 'STUDENT', '2025-11-05 10:33:17');
-INSERT INTO `user` VALUES ('3', 'student2', '123456', 'STUDENT', '2025-11-05 11:01:40');
-INSERT INTO `user` VALUES ('4', 'student3', '123456', 'STUDENT', '2025-11-05 13:53:00');
+INSERT INTO `user` VALUES ('1', 'admin', 'admin123', 'ADMIN', '2026-5-05 10:33:17');
+INSERT INTO `user` VALUES ('2', 'student1', '123456', 'STUDENT', '2026-5-05 10:33:17');
+INSERT INTO `user` VALUES ('3', 'student2', '123456', 'STUDENT', '2026-5-05 11:01:40');
+INSERT INTO `user` VALUES ('4', 'student3', '123456', 'STUDENT', '2026-5-05 13:53:00');
 
 -- ----------------------------
 -- Table structure for `visitor`
