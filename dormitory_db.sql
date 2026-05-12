@@ -77,7 +77,7 @@ CREATE TABLE `checkin_record` (
 -- ----------------------------
 -- Records of checkin_record
 -- ----------------------------
-INSERT INTO `checkin_record` VALUES ('1', '2', '2024001', '2025-11-28 18:34:20');
+INSERT INTO `checkin_record` VALUES ('1', '2', '202405567327', '2024-8-28 18:34:20');
 
 -- ----------------------------
 -- Table structure for `checkin_task`
