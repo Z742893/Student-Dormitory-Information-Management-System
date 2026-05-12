@@ -52,10 +52,10 @@ CREATE TABLE `building` (
 -- ----------------------------
 -- Records of building
 -- ----------------------------
-INSERT INTO `building` VALUES ('A1', 'A栋1号楼', '6', '男', '13900139001');
-INSERT INTO `building` VALUES ('B1', 'B栋1号楼', '6', '女', '13900139002');
-INSERT INTO `building` VALUES ('C1', 'C栋101', '6', '男', '13051641241');
-INSERT INTO `building` VALUES ('C栋', 'C栋1号楼', '5', '混', '13956141224');
+INSERT INTO `building` VALUES ('A1', 'A栋1号楼', '6', '男', '18508476726');
+INSERT INTO `building` VALUES ('B1', 'B栋1号楼', '6', '女', '17680257175');
+INSERT INTO `building` VALUES ('C1', 'C栋101', '6', '男', '13142212812');
+INSERT INTO `building` VALUES ('C栋', 'C栋1号楼', '5', '混', '13679113788');
 
 -- ----------------------------
 -- Table structure for `checkin_record`
