@@ -1,0 +1,21 @@
+/**
+ * 管理端 / 学生端侧栏：统一使用 LineIcon 的 name，保证同类入口图标一致。
+ */
+export const ADMIN_SIDEBAR = [
+  { index: '/admin/dashboard', title: '首页', icon: 'home' },
+  { index: '/admin/student', title: '学生管理', icon: 'users' },
+  { index: '/admin/building', title: '宿舍楼管理', icon: 'building' },
+  { index: '/admin/room', title: '房间管理', icon: 'grid' },
+  { index: '/admin/accommodation', title: '入住管理', icon: 'key' },
+  { index: '/admin/repair', title: '报修管理', icon: 'wrench' },
+  { index: '/admin/visitor', title: '访客管理', icon: 'users' },
+  { index: '/admin/checkin', title: '签到管理', icon: 'clipboard' }
+]
+
+export const STUDENT_SIDEBAR = [
+  { index: '/student/dashboard', title: '首页', icon: 'home' },
+  { index: '/student/info', title: '我的信息', icon: 'user' },
+  { index: '/student/repair', title: '我的报修', icon: 'wrench' },
+  { index: '/student/visitor', title: '访客登记', icon: 'users' },
+  { index: '/student/checkin', title: '签到', icon: 'clipboard' }
+]
